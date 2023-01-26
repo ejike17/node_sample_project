@@ -1,0 +1,4 @@
+This is awesome what we can do with node: Hello, this is the first text file
+git remote add origin git@github.com:ejike17/node_sample_project.git
+git branch -M main
+git push -u origin main, Hello, this is the second text file
